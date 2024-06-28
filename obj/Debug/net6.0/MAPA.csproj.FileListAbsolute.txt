@@ -1,0 +1,15 @@
+D:\workspace\MAPA\bin\Debug\net6.0\MAPA.exe
+D:\workspace\MAPA\bin\Debug\net6.0\MAPA.deps.json
+D:\workspace\MAPA\bin\Debug\net6.0\MAPA.runtimeconfig.json
+D:\workspace\MAPA\bin\Debug\net6.0\MAPA.dll
+D:\workspace\MAPA\bin\Debug\net6.0\MAPA.pdb
+D:\workspace\MAPA\obj\Debug\net6.0\MAPA.csproj.AssemblyReference.cache
+D:\workspace\MAPA\obj\Debug\net6.0\MAPA.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\MAPA\obj\Debug\net6.0\MAPA.AssemblyInfoInputs.cache
+D:\workspace\MAPA\obj\Debug\net6.0\MAPA.AssemblyInfo.cs
+D:\workspace\MAPA\obj\Debug\net6.0\MAPA.csproj.CoreCompileInputs.cache
+D:\workspace\MAPA\obj\Debug\net6.0\MAPA.dll
+D:\workspace\MAPA\obj\Debug\net6.0\refint\MAPA.dll
+D:\workspace\MAPA\obj\Debug\net6.0\MAPA.pdb
+D:\workspace\MAPA\obj\Debug\net6.0\MAPA.genruntimeconfig.cache
+D:\workspace\MAPA\obj\Debug\net6.0\ref\MAPA.dll
