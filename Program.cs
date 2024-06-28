@@ -12,3 +12,8 @@ for (int i =0; i <5; i++)
     
     fibonacci.Add(futuro);    
 }
+
+foreach(int i in fibonacci)
+{
+    Console.Write($"{i} ");
+}
